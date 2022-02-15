@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: b8e6ad3a-6045-257c-c3f6-df01da54c3f0
 ---
@@ -33,7 +36,7 @@ Student Examples
 
 The long essays below appear courtesy of MIT students and are anonymous upon request.
 
-["Jean Leurechon's _Mathematical Recreations_ in the Context of Early 17th Century Europe." (PDF)]({{< baseurl >}}/resources/mit21h_141s15_mathrecreats)
+["Jean Leurechon's _Mathematical Recreations_ in the Context of Early 17{{< sup "th" >}} Century Europe." (PDF)]({{< baseurl >}}/resources/mit21h_141s15_mathrecreats)
 
 ["Natural Enthusiastick Ecstasies and Revelations: Casaubon's Humanistic Attack on the 'Revelations' of the Sectaries." (PDF)]({{< baseurl >}}/resources/mit21h_141s15_ecstasies)
 

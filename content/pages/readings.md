@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 245ad9ac-38c1-c126-924f-3ba1538959b0
 ---
@@ -10,7 +13,7 @@ uid: 245ad9ac-38c1-c126-924f-3ba1538959b0
 
 \[G\] = Ginzburg, Carlo. _The Cheese and the Worms: The Cosmos of a Sixteenth-Century Miller_. Translated by John and Anne Tedeschi. John Hopkins University Press, 1992. ISBN: 9780801843877. \[Preview with [Google Books](http://books.google.com/books?id=4IUREWq_o3MC&pg=PAfrontcover)\]
 
-\[H\] = Hill, Christopher. _Puritanism and Revolution: Studies in Interpretation of the English Revolution of the 17th Century_. Palgrave Macmillan, 1997. ISBN: 9780312174347.
+\[H\] = Hill, Christopher. _Puritanism and Revolution: Studies in Interpretation of the English Revolution of the 17{{< sup "th" >}} Century_. Palgrave Macmillan, 1997. ISBN: 9780312174347.
 
 \[J\] = Jacob, Margaret C., ed. _The Scientific Revolution: A Brief History with Documents_. Bedford / St. Martin's, 2009. ISBN: 9780312653491.
 
