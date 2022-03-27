@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b8e6ad3a-6045-257c-c3f6-df01da54c3f0
 resourcetype: Document
 title: '21H.141S15 Renaissance To Revolution: Assignments - Debate 2'
 uid: 859721eb-eef0-64b8-5c18-03797fc13d91
