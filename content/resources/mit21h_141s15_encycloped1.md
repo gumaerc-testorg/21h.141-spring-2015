@@ -6,6 +6,7 @@ file: /courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015/fd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '21H.141S15 Renaissance To Revolution: Lecture Slides - Encyclopedie I'
 uid: fd087bd1-bd20-bdfc-c6d8-38e95f6cf119
 ---
 This is a file that contains information regarding renaissance to revolution: europe, 1300-1800 lecture slides - encyclopedie I.
-

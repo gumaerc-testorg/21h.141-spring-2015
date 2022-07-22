@@ -5,6 +5,7 @@ file: /courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015/fb
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '21H.141S15 Renaissance To Revolution: Assignments - Paper 1'
 uid: fb564b07-215e-1329-632f-99cae6f3e776
 ---
 This resource contains information regarding assignments - paper 1.
-
