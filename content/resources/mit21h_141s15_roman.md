@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding assignments - student example
   3.
 file: /courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015/c37de40478ec9f5150617d26408b3f3d_MIT21H_141S15_Roman.pdf
+file_size: 649606
 file_type: application/pdf
 learning_resource_types:
 - Assignments

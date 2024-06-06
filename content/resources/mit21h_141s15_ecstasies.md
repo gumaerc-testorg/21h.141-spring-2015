@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding assignments - student example
   2.
 file: /courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015/a5856154246fa8045189003183234581_MIT21H_141S15_Ecstasies.pdf
+file_size: 461425
 file_type: application/pdf
 learning_resource_types:
 - Assignments
