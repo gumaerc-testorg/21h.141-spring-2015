@@ -3,6 +3,7 @@ content_type: resource
 description: This is a file that contains information regarding nuremberg chronicle,
   1493, part I.
 file: /courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015/bbe7bd1d8fada38908e8d2afb1c7caad_MIT21H_141S15_NurembergI.pdf
+file_size: 5979142
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
