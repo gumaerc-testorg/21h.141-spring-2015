@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding assignments - student example
   4.
-file: /courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015/8e9655771e47ba5e3255bb3f030a4860_MIT21H_141S15_Skepticism.pdf
+file: /ol-ocw-studio-app/courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015/8e9655771e47ba5e3255bb3f030a4860_MIT21H_141S15_Skepticism.pdf
 file_size: 378368
 file_type: application/pdf
 learning_resource_types:
