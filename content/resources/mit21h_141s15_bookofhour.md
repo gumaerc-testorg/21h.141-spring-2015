@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This is a file that contains information regarding renaissance to revolution:
   europe, 1300-1800 lecture slides - book of hours.'
-file: /courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015/203a7f810a12292cd87dfefe74a72621_MIT21H_141S15_Bookofhour.pdf
+file: /ol-ocw-studio-app/courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015/203a7f810a12292cd87dfefe74a72621_MIT21H_141S15_Bookofhour.pdf
 file_size: 3880793
 file_type: application/pdf
 learning_resource_types:
