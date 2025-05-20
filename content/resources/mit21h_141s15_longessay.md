@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding assignments - long essay.
-file: /ol-ocw-studio-app/courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015/2af20586f3b4dc3bcabe2bf1c98e5bae_MIT21H_141S15_LongEssay.pdf
+file: /courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015/2af20586f3b4dc3bcabe2bf1c98e5bae_MIT21H_141S15_LongEssay.pdf
 file_size: 639530
 file_type: application/pdf
 learning_resource_types:
