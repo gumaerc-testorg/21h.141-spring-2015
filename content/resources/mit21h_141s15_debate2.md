@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding assignments - debate 2.
-file: /ol-ocw-studio-app/courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015/859721ebeef064b85c1803797fc13d91_MIT21H_141S15_Debate2.pdf
+file: /courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015/859721ebeef064b85c1803797fc13d91_MIT21H_141S15_Debate2.pdf
 file_size: 651725
 file_type: application/pdf
 learning_resource_types:
