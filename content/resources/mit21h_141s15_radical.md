@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This is a file that contains information regarding renaissance to revolution:
   europe, 1300-1800 lecture slides -radical reformation.'
-file: /courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015/738232e0b27d04fecd81a6247f3f9654_MIT21H_141S15_Radical.pdf
+file: /ol-ocw-studio-app/courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015/738232e0b27d04fecd81a6247f3f9654_MIT21H_141S15_Radical.pdf
 file_size: 912183
 file_type: application/pdf
 learning_resource_types:
