@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This is a file that contains information regarding renaissance to revolution:
   europe, 1300-1800 lecture slides -charles I.'
-file: /courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015/9cd1f4525a83c53674e1aa946b2e9752_MIT21H_141S15_Charles1.pdf
+file: /ol-ocw-studio-app/courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015/9cd1f4525a83c53674e1aa946b2e9752_MIT21H_141S15_Charles1.pdf
 file_size: 1143989
 file_type: application/pdf
 learning_resource_types:
