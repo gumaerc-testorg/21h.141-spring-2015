@@ -115,16 +115,16 @@ If you want more background reading on this period in European history, consult:
 
 Hunt, Lynn, Thomas R. Martin, et al. _The Making of the West: Peoples and Culture–A Concise History, Vol. I: To 1740_. 3rd ed. Bedford / St. Martin's, 2010. ISBN: 9780312554590.
 
-Ginzburg, Carlo. _The Cheese and the Worms: The Cosmos of a Sixteenth-Century Miller_. Translated by John and Anne Tedeschi. John Hopkins University Press, 1992. ISBN: 9780801843877. \[Preview with [Google Books](http://books.google.com/books?id=4IUREWq_o3MC&pg=PAfrontcover)\]
+Ginzburg, Carlo. _The Cheese and the Worms: The Cosmos of a Sixteenth-Century Miller_. Translated by John and Anne Tedeschi. John Hopkins University Press, 1992. ISBN: 9780801843877. \[Preview with {{% resource_link "58e9f735-9579-44b6-a86f-827bc7fdc13d" "Google Books" %}}\]
 
-Descartes, René. _Discourse on Method_. 3rd ed. Hackett Publishing Company, Incorporation, 1998. ISBN: 9780872204225. \[Preview with [Google Books](http://books.google.com/books?id=URMSbDE9JvgC&pg=PAfrontcover)\]
+Descartes, René. _Discourse on Method_. 3rd ed. Hackett Publishing Company, Incorporation, 1998. ISBN: 9780872204225. \[Preview with {{% resource_link "f75653c3-98d6-437a-8b18-7fac85000f4e" "Google Books" %}}\]
 
 Writing Help
 ------------
 
-The [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) at MIT offers _**free**_ one-on-one **professional** advice from lecturers (who all have advanced degrees and who are all are published writers) about all types of academic, creative, and professional writing and about all aspects of oral presentations (including practicing your presentations). We help you think your way more deeply into your topic, no matter what department or discipline you are in.
+The {{% resource_link "3ac239a1-d706-4518-877e-d610af0e9b85" "Writing and Communication Center" %}} at MIT offers _**free**_ one-on-one **professional** advice from lecturers (who all have advanced degrees and who are all are published writers) about all types of academic, creative, and professional writing and about all aspects of oral presentations (including practicing your presentations). We help you think your way more deeply into your topic, no matter what department or discipline you are in.
 
 Cheating and Plagiarism
 -----------------------
 
-The web now hosts many sites which offer college level papers of varying quality on a variety of topics. I am well acquainted with these sites, and with others that offer detection services to professors. Buying a paper written by someone else and submitting it as your own work is cheating. Copying sections from someone else's print or online work into your own without an acknowledgement is plagiarism. MIT has strict policies against both activities that I will fully enforce. For the appropriate MIT definitions and policies, visit [Academic Integrity at MIT: A Handbook for Students](http://integrity.mit.edu/). If you are uncertain about what constitutes cheating or plagiarism, please contact me before submitting the work in question.
+The web now hosts many sites which offer college level papers of varying quality on a variety of topics. I am well acquainted with these sites, and with others that offer detection services to professors. Buying a paper written by someone else and submitting it as your own work is cheating. Copying sections from someone else's print or online work into your own without an acknowledgement is plagiarism. MIT has strict policies against both activities that I will fully enforce. For the appropriate MIT definitions and policies, visit {{% resource_link "8550d93e-928c-42c5-a400-3dd8d5f1fc0b" "Academic Integrity at MIT: A Handbook for Students" %}}. If you are uncertain about what constitutes cheating or plagiarism, please contact me before submitting the work in question.

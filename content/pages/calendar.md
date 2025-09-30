@@ -91,9 +91,9 @@ Making Books
 
 ### Screening
 
-Avi Michael. "[Chancery Papermaking](https://www.youtube.com/watch?v=e-PmfdV_cZU)." May 28, 2013. YouTube.
+Avi Michael. "{{% resource_link "963f3719-bc66-4411-9ae6-e67f858e168b" "Chancery Papermaking" %}}." May 28, 2013. YouTube.
 
-"[The Making of a Renaissance Book](https://www.youtube.com/watch?v=ZHprwjOJIn8)" dvd. 1969. Rare Book School.
+"{{% resource_link "3d97ac18-19e4-4cf2-9c8e-2ef0098e5baf" "The Making of a Renaissance Book" %}}" dvd. 1969. Rare Book School.
 
 
 {{< tdclose >}}
